@@ -2,7 +2,7 @@
 require_once __DIR__."/vendor/autoload.php";
 use \Dropbox as dbx;
 //your access token from the Dropbox App Panel
-$accessToken = 'MaztXbJ4t88AAAAAAAAFAxhSzMQ6pWdw4iEjadhFueD0EdwS7ZLChLrH1Wh336B-';
+$accessToken = '';
 
 //run the MySQL dump and zip;
 
